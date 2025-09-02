@@ -1,0 +1,212 @@
+{
+  "carros": [
+    {
+      "id": "1",
+      "marca": "Toyota",
+      "modelo": "Corolla",
+      "ano": 2020
+    },
+    {
+      "id": "2",
+      "marca": "Honda",
+      "modelo": "Civic",
+      "ano": 2019
+    },
+    {
+      "id": "3",
+      "marca": "Ford",
+      "modelo": "Fiesta",
+      "ano": 2018
+    },
+    {
+      "id": "a95d",
+      "marca": "Chevrolet",
+      "modelo": "Onix",
+      "ano": 2021
+    },
+    {
+      "id": "36b7",
+      "marca": "Chevrolet",
+      "modelo": "Onix",
+      "ano": 2021
+    },
+    {
+      "id": "824d",
+      "marca": "Chevrolet",
+      "modelo": "Onix",
+      "ano": 2021
+    },
+    {
+      "id": "d682",
+      "marca": "Chevrolet",
+      "modelo": "Onix",
+      "ano": 2021
+    },
+    {
+      "id": "5fa9",
+      "marca": "Chevrolet",
+      "modelo": "Onix",
+      "ano": 2021
+    },
+    {
+      "id": "53aa",
+      "marca": "Chevrolet",
+      "modelo": "Onix",
+      "ano": 2021
+    },
+    {
+      "id": "f692",
+      "marca": "Chevrolet",
+      "modelo": "Onix",
+      "ano": 2021
+    },
+    {
+      "id": "dde9",
+      "marca": "Chevrolet",
+      "modelo": "Onix",
+      "ano": 2021
+    },
+    {
+      "id": "560c",
+      "marca": "Chevrolet",
+      "modelo": "Onix",
+      "ano": 2021
+    }
+  ],
+  "produtos": [
+    {
+      "id": "1",
+      "nome": "Água Mineral",
+      "preco": 2.5,
+      "categoria": "bebidas",
+      "estoque": 50
+    },
+    {
+      "id": "2",
+      "nome": "Refrigerante",
+      "preco": 5,
+      "categoria": "bebidas",
+      "estoque": 30
+    },
+    {
+      "id": "3",
+      "nome": "Pão Francês",
+      "preco": 0.8,
+      "categoria": "padaria",
+      "estoque": 100
+    },
+    {
+      "id": "4",
+      "nome": "Leite",
+      "preco": 3.2,
+      "categoria": "bebidas",
+      "estoque": 40
+    },
+    {
+      "id": "826f",
+      "nome": "Suco de Laranja",
+      "preco": 6.5,
+      "categoria": "bebidas",
+      "estoque": 20
+    },
+    {
+      "id": "4e2e",
+      "nome": "Suco de Laranja",
+      "preco": 6.5,
+      "categoria": "bebidas",
+      "estoque": 20
+    },
+    {
+      "id": "ebaf",
+      "nome": "Suco de Laranja",
+      "preco": 6.5,
+      "categoria": "bebidas",
+      "estoque": 20
+    },
+    {
+      "id": "4b94",
+      "nome": "Suco de Laranja",
+      "preco": 6.5,
+      "categoria": "bebidas",
+      "estoque": 20
+    },
+    {
+      "id": "4204",
+      "nome": "Suco de Laranja",
+      "preco": 6.5,
+      "categoria": "bebidas",
+      "estoque": 20
+    },
+    {
+      "id": "bc68",
+      "nome": "Suco de Laranja",
+      "preco": 6.5,
+      "categoria": "bebidas",
+      "estoque": 20
+    },
+    {
+      "id": "8cc3",
+      "nome": "Suco de Laranja",
+      "preco": 6.5,
+      "categoria": "bebidas",
+      "estoque": 20
+    },
+    {
+      "id": "b0c6",
+      "nome": "Suco de Laranja",
+      "preco": 6.5,
+      "categoria": "bebidas",
+      "estoque": 20
+    }
+  ],
+  "alunos": [
+    {
+      "id": "1",
+      "nome": "Ana",
+      "idade": 20,
+      "curso": "TI"
+    },
+    {
+      "id": "2",
+      "nome": "Bruno",
+      "idade": 22,
+      "curso": "Administração"
+    },
+    {
+      "nome": "Carla Souza",
+      "idade": 20,
+      "curso": "Design Gráfico",
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "nome": "Diego",
+      "idade": 21,
+      "curso": "TI"
+    },
+    {
+      "id": "5",
+      "nome": "Elisa",
+      "idade": 23,
+      "curso": "Direito"
+    },
+    {
+      "id": "d63e",
+      "nome": "Fernando",
+      "idade": 20,
+      "curso": "Engenharia"
+    },
+    {
+      "id": "eb45",
+      "nome": "Fernando",
+      "idade": 20,
+      "curso": "Engenharia"
+    },
+    {
+      "id": "e5f3",
+      "nome": "Fernando",
+      "idade": 20,
+      "curso": "Engenharia"
+    }
+  ]
+}
