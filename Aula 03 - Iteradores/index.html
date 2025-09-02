@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Iteradores</title>
+  </head>
+  <body>
+    <div>
+      <h1>Novos alunos do curso</h1>
+      <input
+        type="text"
+        placeholder="Digite o nome do aluno"
+        id="input-nome-aluno"
+      />
+      <button id="add-aluno">Adicionar</button>
+
+      <ol id="lista-alunos"></ol>
+    </div>
+
+    <div>
+      <h1>Lista de convidados</h1>
+      <input
+        type="text"
+        placeholder="Digite o nome do convidado"
+        id="input-nome-convidado"
+      />
+      <button id="add-convidado">Adicionar</button>
+      <p>Total de convidados: <span id="numero-convidados">0</span></p>
+
+      <ol id="lista-convidados"></ol>
+    </div>
+
+    <div>
+      <h1>Cadastro de Filmes</h1>
+      <div style="width: 50%; display: flex; justify-content: space-between">
+        <div>
+          <input
+            type="text"
+            placeholder="Digite o nome do filme"
+            id="input-nome-filme"
+          />
+          <button id="add-filme">Adicionar Filme</button>
+        </div>
+
+        <input
+          type="text"
+          placeholder="Busque por um filme"
+          id="input-busca-filme"
+        />
+      </div>
+
+      <div style="margin-top: 10px;">
+        <button id="ordenar-a-z">Ordenar A-Z</button>
+        <button id="ordenar-z-a">Ordenar Z-A</button>
+      </div>
+
+      <ol id="lista-filmes"></ol>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
